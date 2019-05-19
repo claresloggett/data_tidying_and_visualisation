@@ -1,0 +1,16 @@
+name: tidy-viz-workshops
+channels: 
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - jupyter
+  - notebook
+  - jupyter_contrib_nbextensions
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - vega
+  - vega_datasets
