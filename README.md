@@ -5,6 +5,6 @@ For the Data tidying with Python and Pandas workshop, we will use the Pandas_and
 
 For the Data visualisation with Python workshop, we will use the notebooks Seaborn_Matplotlib.ipynb and Altair.ipynb .
 
-To launch Binder: * Jupyter Notebook: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/claresloggett/data_tidying_and_visualisation/master)
+To launch Jupyter Notebook in your browser via Binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/claresloggett/data_tidying_and_visualisation/master)
 
 Remember that if you work in Binder, you should download any edited notebook that you want to keep.
